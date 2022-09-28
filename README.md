@@ -33,7 +33,8 @@
 <p align="left">
   <a href="https://kazukim.dev"><img src="https://img.shields.io/badge/-kazukim.dev-05122A?style=flat&logo=blogger"/></a>
   <a href="https://twitter.com/kazukim_dev"><img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter"/></a>
-  <a href="https://medium.com/@kazukim10/about"><img src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium"/></a>
+  <a href="https://zenn.dev/kazukim"><img src="https://img.shields.io/badge/-Zenn-05122A?style=flat&logo=zenn"/></a>
+  <a href="https://medium.kazukim.dev"><img src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium"/></a>
   <a href="https://www.kaggle.com/kazukim"><img src="https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=kaggle"/></a>
   <a href="https://www.youtube.com/channel/UCY5obzEygUiNwuKybJCMn7w"><img src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube"/></a>
 </p>
