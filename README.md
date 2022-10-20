@@ -1,4 +1,4 @@
-<img src="https://profile-counter.glitch.me/kazukim10/count.svg">
+<!-- <img src="https://profile-counter.glitch.me/kazukim10/count.svg"> -->
 
 ### 😺 &nbsp;About Me
 
