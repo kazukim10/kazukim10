@@ -40,6 +40,7 @@
   <a href="https://www.youtube.com/channel/UCY5obzEygUiNwuKybJCMn7w"><img src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube"/></a>
 </p>
 
+<!-- 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="">
@@ -48,3 +49,4 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kazukim10&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+-->
