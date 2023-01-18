@@ -4,10 +4,11 @@
 
 - 👋 Hi, I’m kazukim10.
 - 💻 I’m engineer from 2020.
-- 👀 I’m interested in AI, ML, DL, and Develope App.
+- 👀 I’m interested in AI, ML, DL, and developing WebApplications.
+<!--
 - 🌱 I’m currently working on solo developer.
 - 💞️ I’m looking to collaborate on micro-saas project.
-
+-->
 ### 🛠 &nbsp;Technical Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -42,8 +43,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="">
-<a href="https://github.com/kazukim10">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kazukim10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kazukim10&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/kazukim10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kazukim10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kazukim10&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
