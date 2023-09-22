@@ -50,7 +50,7 @@
 ### 🤝🏻 &nbsp;Follow Me
 
 <p align="left">
-  <a href="https://www.kazukim.dev"><img src="https://img.shields.io/badge/-kazukim.dev-05122A?style=flat&logo=wordpress"/></a>
+  <a href="https://www.kazukim-ai.com"><img src="https://img.shields.io/badge/-05122A?style=flat&logo=wordpress"/></a>
   <a href="https://twitter.com/kazukim_dev"><img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter"/></a>
   <a href="https://zenn.dev/kazukim"><img src="https://img.shields.io/badge/-Zenn-05122A?style=flat&logo=zenn"/></a>
   <a href="https://medium.kazukim.dev"><img src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium"/></a>
