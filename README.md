@@ -3,12 +3,14 @@
 ### 😺 &nbsp;About Me
 
 - 👋 Hi, I’m kazukim10.
-- 💻 I’m engineer.
 <!--
+- 💻 I’m engineer.
 - 👀 I’m interested in AI, ML, DL, and developing WebApplications.
 - 🌱 I’m currently working on solo developer.
 - 💞️ I’m looking to collaborate on micro-saas project.
 -->
+
+<!--
 ### 🛠 &nbsp;Technical Skills
 
 #### Programming Launguage
@@ -46,7 +48,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+-->
+<!--
 ### 🤝🏻 &nbsp;Follow Me
 
 <p align="left">
@@ -57,7 +60,7 @@
   <a href="https://www.kaggle.com/kazukim"><img src="https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=kaggle"/></a>
   <a href="https://www.youtube.com/channel/UCY5obzEygUiNwuKybJCMn7w"><img src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube"/></a>
 </p>
-
+-->
 <!-- 
 ### ⚙️ &nbsp;GitHub Analytics
 
